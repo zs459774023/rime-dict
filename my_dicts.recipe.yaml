@@ -1,0 +1,9 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: my_dicts
+  args:
+  description: >-
+    update self dict
+install_files: >-
+  cn_dicts/my.dict.yaml
