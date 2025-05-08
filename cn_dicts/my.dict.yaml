@@ -1,7 +1,7 @@
 # 我自己的词库，通常是一些自己常用的名词
 ---
 name: others
-version: "2025-05-08 01:46"
+version: "2025-05-08 01:47"
 sort: by_weight
 ...
 ##### 容错词
@@ -9,3 +9,4 @@ sort: by_weight
 揽星	lan xing
 星瑞	xing rui
 豪越	hao yue
+测试	ce shi科技	ke ji
