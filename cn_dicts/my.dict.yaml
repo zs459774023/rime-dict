@@ -1,7 +1,7 @@
 # 我自己的词库，通常是一些自己常用的名词
 ---
 name: others
-version: "2025-05-13 01:16"
+version: "2025-05-14 08:40"
 sort: by_weight
 ...
 ##### 容错词
@@ -9,3 +9,4 @@ sort: by_weight
 揽星	lan xing
 豪越	hao yue
 剪映	jian ying
+绿幕	lu mu
